@@ -4,6 +4,7 @@
 <p> 
     <a href="https://www.linkedin.com/in/abaz-id" target="blank"><img src="https://img.shields.io/badge/Abdul_Aziz-30302f?style=flat&logo=linkedin" /></a>
     <a href="mailto:abaz.my.id@gmail.com" target="blank"><img src="https://img.shields.io/badge/Abdul_Aziz-30302f?style=flat&logo=gmail" /></a>
+    <img src="https://gpvc.arturio.dev/abaz1d" />
 </p>
 
 <p>
