@@ -14,7 +14,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abaz1d&theme=swift&hide_border=true" width=505 />
 </p>
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abaz1d&theme=onedark&no-frame=true&no-bg=true&margin-w=4)\
 ---
