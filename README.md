@@ -15,7 +15,7 @@
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abaz1d&theme=onedark&no-frame=true&no-bg=true&margin-w=4)\
+![](https://github-profile-trophy.vercel.app/?username=abaz1d&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
