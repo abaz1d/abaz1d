@@ -2,7 +2,8 @@
     <h1>Hi there 👋 , I'm Abdul Aziz!</h1>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abaz-id) [![Gmail](https://img.shields.io/badge/Gmail-white.svg?logo=Gmail&logoColor=red)](mailto:abaz.my.id@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCYa4Il5c059G3y93C1vU5DQ) <img src="https://gpvc.arturio.dev/abaz1d" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abaz-id) [![Gmail](https://img.shields.io/badge/Gmail-white.svg?logo=Gmail&logoColor=red)](mailto:abaz.my.id@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCYa4Il5c059G3y93C1vU5DQ) [![Profile Views](https://komarev.com/ghpvc/?username=abaz1d)](https://github.com/abaz1d)
+
 
 
 # 💻 Tech Stack:
